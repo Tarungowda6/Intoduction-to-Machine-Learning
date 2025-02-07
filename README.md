@@ -53,7 +53,25 @@ Sample Applications
 
 Define the learning Task
 
-Improve on task T, with respect 
+Improve on task T, with respect to performance metric P, based on experience E
+
+T:Playing checkers
+P:Percentage of games won against an arbitrary opponent
+E:Playing practice games against itself
+
+T:Recognizing hand-written words
+P:Percentage of words correctly classified
+E:Database of human-labeled images of handwritten words
+
+T:Driving on four-lane highways using vision sensors
+P:Average distance travelled before a human-judged error
+E:A sequence of images and steering commands recorded while observing a human driver
+
+T: Categorize email messages as spam or legitimate.
+P: Percentage of email messages correctly classified.
+E: Database of emails, some with human-given labels
+
+
 
 
 
