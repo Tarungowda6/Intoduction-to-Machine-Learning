@@ -41,6 +41,20 @@ Some more examples of tasks that that are best solved by using a learning algori
 
 Sample Applications
 
+* Web search
+* Computational biology
+* Finance
+* E-commerce
+* Space exploration
+* Robotics
+* Information extraction
+* Social networks
+* Debugging sofware
+
+Define the learning Task
+
+Improve on task T, with respect 
+
 
 
 
